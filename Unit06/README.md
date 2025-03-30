@@ -3,7 +3,7 @@
 ## Description
 
 Submitted the activities below:
-- ✅ e-Portfolio Update: Data Collection Methods
+- ✅ <s>e-Portfolio Update: Data Collection Methods</s> (removed from Deadline Details)
 
 
 
