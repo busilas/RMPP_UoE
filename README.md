@@ -34,7 +34,7 @@ Research Methods and Professional Practice<br>January 2025
 - Wiki Activity: Questionnaires
 
 ### [Unit 6](/Unit06/) - [Quantitative Methods - Descriptive and Inferential Statistics](https://www.my-course.co.uk/course/view.php?id=12880&section=12)
-- e-Portfolio Update: Data Collection Methods
+- <s>e-Portfolio Update: Data Collection Methods</s> (removed from Deadline Details)
 
 ### [Unit 7](/Unit07/) - [Inferential Statistics and Hypothesis Testing](https://www.my-course.co.uk/course/view.php?id=12880&section=13)
 - Summative Assessment - Literature Review
