@@ -4,7 +4,6 @@
 
 Submitted the activities below:
 - ✅ Collaborative discussion 2 - Summary Post
-- ✅ Statistical Worksheet Submissions
 - ✅ e-Portfolio Activity: Charts Example Worksheet
 
 
