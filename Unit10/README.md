@@ -4,6 +4,7 @@
 
 Submitted the activities below:
 - ✅ Summative Assessment - Research Proposal Presentation
+- ✅ Submissions - Statistical Worksheets
 
 
 
