@@ -3,7 +3,7 @@
 ## Description
 
 Submitted the activities below:
-- ✅ Seminar 6: e-Portfolio Preparation
+- ✅ Seminar 6: e-Portfolio Preparation - Professional Skills Matrix,
 
 
 
